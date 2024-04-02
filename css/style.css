@@ -2118,7 +2118,12 @@ fieldset:disabled a.btn {
       -webkit-box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
       box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5); }
 
-.btn-success {
+
+      .btn-card {
+        align-items: center;
+      }
+
+      .btn-success {
   color: #fff;
   background-color: #28a745;
   border-color: #28a745; }
